@@ -1,7 +1,7 @@
 # Exploratory Data Analysis on Online Retail Dataset
 ## Overview
 
-I’m a beginner learning data analysis, and I took this project from the Coursera Project Network to understand how data is used in the retail world. Through this project, I wanted to practice using Python for exploring, cleaning, and understanding data. My main goal was to see how data analysis helps in finding useful insights like customer behavior and sales trends.
+I’m a beginner learning data analysis, and I took this project from the **Coursera Project Network** to understand how data is used in the retail world. Through this project, I wanted to practice using Python for exploring, cleaning, and understanding data. My main goal was to see how data analysis helps in finding useful insights like customer behavior and sales trends.
 This project is a small step for me to apply what I’ve learned and build confidence in analyzing real-world data.
 
 ## Case Study
@@ -20,7 +20,7 @@ Through this case study, I aimed to gain hands-on experience in analyzing real-w
 
 ## Dataset
 
-For this project, I worked with the “Online Retail” dataset, which was provided as part of the Coursera Project Network. It contains transactional data from an online retail store between 2010 and 2011. The dataset is in a .xlsx file named Online Retail.xlsx.
+For this project, I worked with the “Online Retail” dataset, which was provided as part of the **Coursera Project Network**. It contains transactional data from an online retail store between 2010 and 2011. The dataset is in a .xlsx file named Online Retail.xlsx.
 
 The dataset includes the following columns:
 InvoiceNo: Invoice number of the transaction
